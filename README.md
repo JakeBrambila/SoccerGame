@@ -87,7 +87,7 @@ Example Menu
 •	games_fouls: Filters games based on fouls.
 •	remove_game: Removes a game by opponent.
 
-🖥 Example Output
+## 🖥 Example Output
 
 After selecting option 1 to display all games, the program might output:
 Liverpool VS Manchester City
@@ -113,7 +113,7 @@ Alisson Becker
 •	File Validation: The program will prompt for a valid filename if the entered file cannot be opened.
 •	Error Handling: The program validates user inputs and provides feedback for incorrect entries.
 
-📄 License
+## 📄 License
 
 This project is open-source and available for educational use.
 
