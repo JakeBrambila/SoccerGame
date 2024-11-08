@@ -74,19 +74,6 @@ Example Menu
 •	Standard C++ Libraries (iostream, fstream, iomanip): For basic I/O operations.
 •	Custom Header File (library.h): Contains declarations for functions used in library.cpp.
 
-## 📂 Code Structure
-
-•	struct Game: Defines the structure for storing each game’s statistics and player lineup.
-•	Key Functions:
-•	collect_all: Loads game data from the input file.
-•	display_all: Displays all loaded games.
-•	search: Searches for a game by opponent.
-•	insertion_sort: Sorts games by possession.
-•	passes_completed: Calculates completed passes in a game.
-•	player_games: Lists games a specific player played in.
-•	games_fouls: Filters games based on fouls.
-•	remove_game: Removes a game by opponent.
-
 
 ## 📌 Notes
 
