@@ -48,15 +48,17 @@ Diogo Jota,Darwin Nunez,Mohammed Salah,Wataru Endo,Cody Gakpo,Dominik Szoboszlai
 
 1.	Compile the Program:
 	•	Use a C++ compiler to build the program. For example, with g++:
-**g++ main.cpp library.cpp -o LiverpoolStats**
+```bash
+g++ main.cpp library.cpp -o LiverpoolStats
+```
 
-2.	Run the Program:
+3.	Run the Program:
 	•	Execute the program:
 ./LiverpoolStats
 
-3.	Input the Filename:
+4.	Input the Filename:
 	•	Enter the name of the input file (e.g., input.dat) when prompted.
-4.	Choose from the Menu Options:
+5.	Choose from the Menu Options:
 	•	The program displays a menu with options to view, search, sort, and modify the game data.
 
 Example Menu
