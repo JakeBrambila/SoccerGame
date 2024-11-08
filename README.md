@@ -37,7 +37,7 @@ The application reads data from an `input.dat` file, where each line represents 
 [Opponent Name],[Our Score]-[Opponent Score] [Shots] [Shots on Target] [Possession] [Passes] [Pass Accuracy] [Fouls] [Yellow Cards] [Red Cards] [Offsides] [Corners]
 [Player 1],[Player 2],[Player 3],…,[Player 11]
 
-# Example of `input.dat`:
+## Example of `input.dat`:
 Manchester City,1-1 8 3 40 414 81 11 3 0 4 6
 Diogo Jota,Darwin Nunez,Mohammed Salah,Curtis Jones,Alexis Mac Allister,Dominik Szoboszlai,Kostas Tsimikas,Virgil Van Dijk,Joel Matip,Trent Alexander-Arnold,Alisson Becker
 
@@ -48,7 +48,7 @@ Diogo Jota,Darwin Nunez,Mohammed Salah,Wataru Endo,Cody Gakpo,Dominik Szoboszlai
 
 1.	Compile the Program:
 	•	Use a C++ compiler to build the program. For example, with g++:
-g++ main.cpp library.cpp -o LiverpoolStats
+**g++ main.cpp library.cpp -o LiverpoolStats**
 
 2.	Run the Program:
 	•	Execute the program:
@@ -56,7 +56,7 @@ g++ main.cpp library.cpp -o LiverpoolStats
 
 3.	Input the Filename:
 	•	Enter the name of the input file (e.g., input.dat) when prompted.
-	4.	Choose from the Menu Options:
+4.	Choose from the Menu Options:
 	•	The program displays a menu with options to view, search, sort, and modify the game data.
 
 Example Menu
