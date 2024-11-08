@@ -37,12 +37,12 @@ The application reads data from an `input.dat` file, where each line represents 
 [Opponent Name],[Our Score]-[Opponent Score] [Shots] [Shots on Target] [Possession] [Passes] [Pass Accuracy] [Fouls] [Yellow Cards] [Red Cards] [Offsides] [Corners]
 [Player 1],[Player 2],[Player 3],…,[Player 11]
 
-### Example of `input.dat`:
+# Example of `input.dat`:
 
 Manchester City,1-1 8 3 40 414 81 11 3 0 4 6
 Diogo Jota,Darwin Nunez,Mohammed Salah,Curtis Jones,Alexis Mac Allister,Dominik Szoboszlai,Kostas Tsimikas,Virgil Van Dijk,Joel Matip,Trent Alexander-Arnold,Alisson Becker
 Brentford,3-0 17 10 59 504 83 16 1 0 2 6
-Diogo Jota,Darwin Nunez,Mohammed Salah,Wataru Endo,Cody Gakpo,Dominik Szoboszlai,Kostas Tsimikas,Virgil Van Dijk,Joel Matip,Trent Alexander-Arnold,Alisson Becker```
+Diogo Jota,Darwin Nunez,Mohammed Salah,Wataru Endo,Cody Gakpo,Dominik Szoboszlai,Kostas Tsimikas,Virgil Van Dijk,Joel Matip,Trent Alexander-Arnold,Alisson Becker
 
 ## 🔧 How to Use
 
