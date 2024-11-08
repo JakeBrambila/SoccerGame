@@ -54,11 +54,13 @@ g++ main.cpp library.cpp -o LiverpoolStats
 
 3.	Run the Program:
 	•	Execute the program:
+```bash
 ./LiverpoolStats
+```
 
-4.	Input the Filename:
+5.	Input the Filename:
 	•	Enter the name of the input file (e.g., input.dat) when prompted.
-5.	Choose from the Menu Options:
+6.	Choose from the Menu Options:
 	•	The program displays a menu with options to view, search, sort, and modify the game data.
 
 Example Menu
