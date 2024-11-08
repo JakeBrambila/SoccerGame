@@ -87,26 +87,6 @@ Example Menu
 •	games_fouls: Filters games based on fouls.
 •	remove_game: Removes a game by opponent.
 
-## 🖥 Example Output
-
-After selecting option 1 to display all games, the program might output:
-Liverpool VS Manchester City
--------------------------------------------------------------
-| Score | Shots | Shots on Target | Possession | Passes | Pass Accuracy | Fouls | Yellow Cards | Red Cards | Offsides | Corner |
--------------------------------------------------------------
-| 1-1   | 8     | 3               | 40%        | 414    | 81%           | 11    | 3            | 0         | 4        | 6      |
-Players:
-Diogo Jota
-Darwin Nunez
-Mohammed Salah
-Curtis Jones
-Alexis Mac Allister
-Dominik Szoboszlai
-Kostas Tsimikas
-Virgil Van Dijk
-Joel Matip
-Trent Alexander-Arnold
-Alisson Becker
 
 ## 📌 Notes
 
